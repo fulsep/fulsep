@@ -1,1 +1,5 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/fulsep/fulsep/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/fulsep/fulsep/output/github-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fulsep/fulsep/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fulsep/fulsep/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
